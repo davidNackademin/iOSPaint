@@ -14,6 +14,7 @@
 		6345299A205A69F10024A58E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63452998205A69F10024A58E /* LaunchScreen.storyboard */; };
 		634529A5205A69F10024A58E /* Thur15iOsPaintTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 634529A4205A69F10024A58E /* Thur15iOsPaintTests.swift */; };
 		634529B0205A69F10024A58E /* Thur15iOsPaintUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 634529AF205A69F10024A58E /* Thur15iOsPaintUITests.swift */; };
+		634529BE205A6A760024A58E /* CanvasView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 634529BD205A6A760024A58E /* CanvasView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		634529AB205A69F10024A58E /* Thur15iOsPaintUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Thur15iOsPaintUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		634529AF205A69F10024A58E /* Thur15iOsPaintUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Thur15iOsPaintUITests.swift; sourceTree = "<group>"; };
 		634529B1205A69F10024A58E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		634529BD205A6A760024A58E /* CanvasView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CanvasView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				63452996205A69F10024A58E /* Assets.xcassets */,
 				63452998205A69F10024A58E /* LaunchScreen.storyboard */,
 				6345299B205A69F10024A58E /* Info.plist */,
+				634529BD205A6A760024A58E /* CanvasView.swift */,
 			);
 			path = Thur15iOsPaint;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				63452992205A69F10024A58E /* ViewController.swift in Sources */,
 				63452990205A69F10024A58E /* AppDelegate.swift in Sources */,
+				634529BE205A6A760024A58E /* CanvasView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
